@@ -17,3 +17,6 @@ xcuserdata
 SDL2_ttf.pc
 glfont
 showfont
+/VisualC/.vs/SDL_ttf/v17
+/VisualC/Win32
+/VisualC/x64
