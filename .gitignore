@@ -20,3 +20,4 @@ showfont
 /VisualC/.vs/SDL_ttf/v17
 /VisualC/Win32
 /VisualC/x64
+/Xcode/macOS/SDL2.framework/Versions/A/Frameworks/hidapi.framework/Versions/Current
